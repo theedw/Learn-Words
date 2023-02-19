@@ -1,0 +1,26 @@
+{
+  "english": [
+    "Apple",
+    "Book",
+    "Car",
+    "Hello"
+  ],
+  "turkish": [
+    "Elma",
+    "Kitap",
+    "Araba",
+    "Merhaba"
+  ],
+  "german": [
+    "Apfel",
+    "Buch",
+    "Auto",
+    "Hallo"
+  ],
+  "spanish": [
+    "Manzana",
+    "Libro",
+    "Coche",
+    "Hola"
+  ]
+}
